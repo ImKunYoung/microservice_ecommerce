@@ -19,3 +19,6 @@ public class EcommerceApplication {
 |키워드| 설명                                                          |
 |:---|:------------------------------------------------------------|
 |@EnableEurekaServer| Annotation to activate Eureka Server related configuration. |
+
+
+![](imgfile/img.png)
